@@ -1,0 +1,14 @@
+pandas
+streamlit
+plotly
+bertopic
+sentence-transformers
+scikit-learn
+stop-words
+transformers
+tqdm
+google-play-scraper
+umap-learn
+hdbscan
+torch
+numpy
